@@ -1,0 +1,14 @@
+# environment
+.venv/
+venv/
+
+# editor
+.idea/
+
+# Sphinx documentation
+docs/build/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
